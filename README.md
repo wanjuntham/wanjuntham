@@ -16,10 +16,14 @@
 
 - 📫 Reach out to me from below methods:
 
-<a href="https://www.linkedin.com/in/wanjuntham/"><img alt="LinkedIn" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpastebin.com%2Fraw%2FGVh309Qg&style=for-the-badge"></a>
-![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fpastebin.com%2Fraw%2FxyBKpN0P)
-<a href="mailto:wanjuntham@gmail.com"><img alt="Email" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fpastebin.com%2Fraw%2FjscaHKZH"></a>
+[![Email](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fpastebin.com%2Fraw%2FjscaHKZH)](mailto:wanjuntham@gmail.com)
+[![linkedin](https://img.shields.io/endpoint?url=https%3A%2F%2Fpastebin.com%2Fraw%2FGVh309Qg&style=for-the-badge)](https://www.linkedin.com/in/wanjuntham)
+[![Discord](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fpastebin.com%2Fraw%2FxyBKpN0P)](https://discord.com)
 
 ### Tech Stacks
 
 C#, .Net Core, Javascript, Typescript, Angular, Python, AWS, Docker, Github, Gitlab, Git, Agile methodology
+
+### Github Stats
+
+![Wan Jun's github stats](https://github-readme-stats.vercel.app/api?username=wanjuntham&count_private=true&show_icons=true)
