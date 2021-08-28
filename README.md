@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on backend development, majorly .NET Core and NodeJS.
-- 🌱 I’m currently learning cloud computing(AWS), containerized applications(Docker, K8s), as well as front end development (angular/react).
+- 🌱 I’m currently learning cloud computing(AWS), containerized applications(Docker, K8s), as well as front end development (angular).
 <!--- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
