@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on backend development, majorly .NET Core and NodeJS.
-- 🌱 I’m currently learning cloud computing(AWS), containerized applications(Docker, K8s), as well as front end development (angular).
+- 🌱 I’m currently learning cloud computing(GCP), containerized applications(Docker, K8s), as well as front end development (angular).
 <!--- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -22,7 +22,7 @@
 
 ### Tech Stacks
 
-C#, .Net Core, Javascript, Typescript, Angular, Python, AWS, Docker, Github, Gitlab, Git, Agile methodology
+C#, .Net Core, Javascript, Typescript, Angular, Python, GCP, Docker, Github, Gitlab, Git, Agile methodology
 
 ### Github Stats
 
